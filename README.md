@@ -12,9 +12,12 @@ The second approach relies on the fusion of thermal and true color data. To be m
 
 The master thesis can be found in greek here: https://dspace.lib.ntua.gr/xmlui/handle/123456789/49984
 
-<video width="640" height="400" controls preload> 
-    <source src="https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4"></source> 
-</video>
+
+<p align="center">
+  <b></b>
+  <b>The moving average implementation for finding intersections with the reference curve </b>
+  <video src="https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4" width="400" height="300" >
+  </p>
 
 
 https://user-images.githubusercontent.com/39597223/124756507-30ce0180-df35-11eb-9d43-50ce533b2870.mp4
