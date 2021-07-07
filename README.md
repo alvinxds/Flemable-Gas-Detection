@@ -18,7 +18,7 @@ The following videos are the results of this analysis.
   <b></b>
   <b>Propane Detection at pixel level displayed at rgb frames</b>
   <b></b>
-  <img src="https://user-images.githubusercontent.com/39597223/124764689-e56c2100-df3d-11eb-8682-adcecfea27d4.gif" width="400" height="240" >
+  <img src="https://user-images.githubusercontent.com/39597223/124764689-e56c2100-df3d-11eb-8682-adcecfea27d4.gif" width="500" height="400" >
   </p>
 
  
