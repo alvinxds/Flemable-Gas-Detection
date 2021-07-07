@@ -8,11 +8,10 @@ Moreover, this thesis presents a wide analysis of the proposed methodologies, co
 https://user-images.githubusercontent.com/39597223/123999519-4abe9000-d9db-11eb-9180-ff81311f272f.mp4
 
 
-https://user-images.githubusercontent.com/39597223/124445343-24f10c80-dd88-11eb-8c29-8e0e9f35d557.mp4
+
+https://user-images.githubusercontent.com/39597223/124750929-b9956f00-df2e-11eb-9e43-cb3b143f18b0.mp4
 
 
-
-https://user-images.githubusercontent.com/39597223/124448996-b01fd180-dd8b-11eb-980b-f9269a6119d7.mp4
 
 
 
