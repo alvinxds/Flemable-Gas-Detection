@@ -16,8 +16,8 @@ The following videos are the results of this analysis.
 
 <p align="center">
   <b></b>
-  <b>The large season integral and the small season integral as described in the TIMESAT package</b>
-  <img src="https://user-images.githubusercontent.com/39597223/124764689-e56c2100-df3d-11eb-8682-adcecfea27d4.gif" width="500" height="400" >
+  <b>Propane Detection at pixel level displayed at rgb frames</b>
+  <img src="https://user-images.githubusercontent.com/39597223/124764689-e56c2100-df3d-11eb-8682-adcecfea27d4.gif" width="320" height="240" >
   </p>
 
  
