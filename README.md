@@ -15,7 +15,7 @@ The master thesis can be found in greek here: https://dspace.lib.ntua.gr/xmlui/h
 The following videos are the results of this analysis.
 
 <p align="center">
-  <b> mlapapa </b>
+  <b> Propane gas detection at pixel level with background substraction approach displayed at rgb frames </b>
 </p>
 
  <p align="center">
