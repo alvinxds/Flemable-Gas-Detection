@@ -14,7 +14,8 @@ The master thesis can be found in greek here: https://dspace.lib.ntua.gr/xmlui/h
 
 The following videos are the results of this analysis.
 
-<b> Propane Detection using Background Subtraction Displayed at  </b>
+<b> Propane Detection using Background Subtraction Displayed at thermal frames</b>
+
 https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4
 
 https://user-images.githubusercontent.com/39597223/124756507-30ce0180-df35-11eb-9d43-50ce533b2870.mp4
