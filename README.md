@@ -12,13 +12,13 @@ The second approach relies on the fusion of thermal and true color data. To be m
 
 The master thesis can be found in greek here: https://dspace.lib.ntua.gr/xmlui/handle/123456789/49984
 
-https://user-images.githubusercontent.com/39597223/123999519-4abe9000-d9db-11eb-9180-ff81311f272f.mp4
-
-
+https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4
 https://user-images.githubusercontent.com/39597223/124756507-30ce0180-df35-11eb-9d43-50ce533b2870.mp4
 
 
 
+https://user-images.githubusercontent.com/39597223/124758275-13019c00-df37-11eb-8efb-df680c161c80.mov
+https://user-images.githubusercontent.com/39597223/124758353-26146c00-df37-11eb-88d8-f4944dec0d9f.mov
 
-https://user-images.githubusercontent.com/39597223/124755956-a5547080-df34-11eb-9d88-dcc3b72377ee.mov
+
 
