@@ -12,15 +12,12 @@ The second approach relies on the fusion of thermal and true color data. To be m
 
 The master thesis can be found in greek here: https://dspace.lib.ntua.gr/xmlui/handle/123456789/49984
 
-<video>
-  <source src="https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4" type="video/mp4">
-  <source src="https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.ogg" type="video/ogg">
-</video>
+The following videos are the results of this analysis.
 
+<b> Propane Detection using Background Subtraction Displayed at  </b>
+https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4
 
 https://user-images.githubusercontent.com/39597223/124756507-30ce0180-df35-11eb-9d43-50ce533b2870.mp4
-
-
 
 https://user-images.githubusercontent.com/39597223/124758275-13019c00-df37-11eb-8efb-df680c161c80.mov
 
