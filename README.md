@@ -15,17 +15,11 @@ The master thesis can be found in greek here: https://dspace.lib.ntua.gr/xmlui/h
 The following videos are the results of this analysis.
 
 <p align="center">
-<iframe src="https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4" width="560" height="315" frameborder="&quot;"></iframe>
-</p>
-
-
-
-<p align="center">
   <b></b>
-<b> Propane Detection using Background Subtraction displayed at thermal frames</b>
+  <b>The large season integral and the small season integral as described in the TIMESAT package</b>
+  <img src="https://user-images.githubusercontent.com/39597223/124764689-e56c2100-df3d-11eb-8682-adcecfea27d4.gif" width="500" height="400" >
+  </p>
 
-https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4
-</p>  
  
 
 https://user-images.githubusercontent.com/39597223/124756507-30ce0180-df35-11eb-9d43-50ce533b2870.mp4
