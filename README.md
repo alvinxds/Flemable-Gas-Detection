@@ -15,6 +15,10 @@ The master thesis can be found in greek here: https://dspace.lib.ntua.gr/xmlui/h
 https://user-images.githubusercontent.com/39597223/123999519-4abe9000-d9db-11eb-9180-ff81311f272f.mp4
 
 
+https://user-images.githubusercontent.com/39597223/124756507-30ce0180-df35-11eb-9d43-50ce533b2870.mp4
+
+
+
 
 https://user-images.githubusercontent.com/39597223/124755956-a5547080-df34-11eb-9d88-dcc3b72377ee.mov
 
