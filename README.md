@@ -16,7 +16,7 @@ The master thesis can be found in greek here: https://dspace.lib.ntua.gr/xmlui/h
 <p align="center">
   <b></b>
   <b>The moving average implementation for finding intersections with the reference curve </b>
-  <video src="https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4" width="400" height="300" >
+  <video src="https://user-images.githubusercontent.com/39597223/124758211-05e4ad00-df37-11eb-98ae-4a0670fd9c0a.mp4">
   </p>
 
 
