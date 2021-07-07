@@ -16,7 +16,6 @@ The following videos are the results of this analysis.
 
 <p align="center">
   <b> mlapapa </b>
-  <b></b>
 </p>
 
  <p align="center">
